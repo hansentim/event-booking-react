@@ -1,0 +1,107 @@
+h1 {
+  font-family: "Sansita", sans-serif;
+  font-style: italic;
+  font-size: 35px;
+  color: #f56b9a;
+  text-align: center;
+  width: 281px;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+.ticket-content {
+  display: flex;
+  position: relative;
+}
+
+.paper-ticket {
+  width: 311px;
+  height: 270px;
+  background: #ffffff;
+  position: absolute;
+  left: 32px;
+  top: 50px;
+  box-shadow: 0px 0px 32px rgba(0, 0, 0, 0.34);
+  border-radius: 3px;
+}
+
+.paper-ticket p {
+  font-family: "Fira Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+  font-family: "Sansita", sans-serif;
+  font-style: italic;
+
+  font-size: 26px;
+  color: #f56b9a;
+}
+
+h3 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+h4 {
+  font-family: "Fira Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.6);
+  padding-top: 14px;
+}
+
+.paper-ticket > p {
+  margin: 0.5rem 0 0 1rem;
+}
+
+.paper-ticket > h2 {
+  margin: 0.3rem 0 0 0.9rem;
+}
+
+.paper-ticket-where {
+  position: absolute;
+  top: 84px;
+  width: 311px;
+  height: 120px;
+  background: rgba(0, 0, 0, 0.03);
+  border-top: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.paper-ticket-where-p,
+h3 {
+  margin: 0.5rem 0 0 1rem;
+  padding-top: 0.3rem;
+}
+
+.cut-ticket {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 311px;
+  height: 66px;
+  position: absolute;
+  top: 203px;
+  background: rgba(0, 0, 0, 0.08);
+  border-top: 1px dashed rgba(0, 0, 0, 0.4);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+  padding-bottom: 2px;
+}
+
+.box {
+  margin-top: 3px;
+  padding: 5px;
+  height: 65px;
+  width: 103px;
+}
+
+.box-2 {
+  border-right: 1px dashed rgba(0, 0, 0, 0.4);
+  border-left: 1px dashed rgba(0, 0, 0, 0.4);
+}

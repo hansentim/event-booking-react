@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "what": "Elvis Presley hologram",
+    "where": "Market Square Arena",
+    "when": "21 MAR",
+    "day": "21",
+    "month": "MAR",
+    "from": "19.00",
+    "to": "21.00",
+    "price": "3500 sek",
+    "fromTo": "19.00 - 21.00",
+    "fullDate": "21 mars kl 19.00 - 21.00"
+  },
+  {
+    "id": 2,
+    "what": "Radioactive Rave",
+    "where": "Pripyat",
+    "when": "29 MAR",
+    "day": "29",
+    "month": "MAR",
+    "from": "00.00",
+    "to": "07.00",
+    "price": "400 sek",
+    "fromTo": "00.00 - 07.00",
+    "fullDate": "29 mars kl 00.00 - 07.00"
+  },
+  {
+    "id": 3,
+    "what": "Kjell Höglund",
+    "where": "Kjells eget kök",
+    "when": "10 APR",
+    "day": "10",
+    "month": "APR",
+    "from": "15.00",
+    "to": "16.00",
+    "price": "99 sek",
+    "fromTo": "15.00 - 16.00",
+    "fullDate": "10 mars kl 15.00 - 16.00"
+  },
+  {
+    "id": 4,
+    "what": "Stekar-Disco",
+    "where": "Spybar",
+    "when": "17 APR",
+    "day": "17",
+    "month": "APR",
+    "from": "22.00",
+    "to": "Utkastad",
+    "price": "700 sek",
+    "fromTo": "22.00 - Utkastad",
+    "fullDate": "17 april kl 22.00 - Utkastad"
+  }
+]

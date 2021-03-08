@@ -1,0 +1,66 @@
+.buy-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-bottom: 5rem;
+}
+
+.buy-content h3 {
+  text-align: center;
+  width: 202px;
+  font-family: "Fira Sans", sans-serif;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.buy-content h1 {
+  font-family: "Sansita", sans-serif;
+  font-style: italic;
+  color: #f56b9a;
+  font-size: 35px;
+  padding-top: 2rem;
+}
+
+.buy-content :nth-child(3) {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  color: #37aeab;
+  padding-top: 3px;
+}
+.buy-content :nth-child(4) {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 19px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 5px;
+}
+.buy-content :nth-child(5) {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  color: #ffffff;
+  text-shadow: 1px 1px 0px #f56b9a;
+  padding-top: 4rem;
+}
+
+button {
+  font-family: "Fira Sans", sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 600;
+  width: 310px;
+  height: 60px;
+  position: absolute;
+  left: 33px;
+  top: 573px;
+  background: #37aeab;
+  border-radius: 3px;
+  border-style: none;
+  cursor: pointer;
+}
